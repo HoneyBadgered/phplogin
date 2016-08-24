@@ -1,10 +1,10 @@
 <?php
 
 session_start();
-$servername = "localhost";
-$username = "root";
-$password = "root";
-$dbname = "dbtest"
+$servername = "*******";
+$username = "****";
+$password = "****";
+$dbname = "******"
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
